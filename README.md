@@ -20,4 +20,3 @@ Things you may want to cover:
 * 5. rails g rswag:install
 
 * 6. rake rswag:specs:swaggerize
-
